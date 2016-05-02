@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosopographiasi00gall_0031.png"; bbox 0 0 2414 3209; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 348 1754 2598">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 348 1754 2598">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 348 1754 2598; baseline 0 -43"><span class='ocrx_word' id='word_1_1' title='bbox 332 348 1754 2598; x_wconf 95' lang='lat' dir='ltr'><em>   </em></span> <span class='ocrx_word' id='word_1_2' title='bbox 652 2570 712 2580; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_3' title='bbox 780 2555 811 2598; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1594 2509 1754 2598; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 360 2587 1743 2722">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 360 2587 1743 2722">
+     <span class='ocr_line' id='line_1_2' title="bbox 464 2587 1742 2663; baseline 0.022 -32"><span class='ocrx_word' id='word_1_5' title='bbox 464 2587 612 2652; x_wconf 60' lang='lat' dir='ltr'><em>Fratgqo</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 645 2608 782 2654; x_wconf 55' lang='lat' dir='ltr'><em>myrta:</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 811 2592 999 2655; x_wconf 70' lang='lat' dir='ltr'><em>etffios</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1021 2595 1165 2657; x_wconf 79' lang='lat' dir='ltr'><em>palmae</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1193 2612 1273 2663; x_wconf 59' lang='lat'><em>‘²¹33</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1298 2599 1452 2650; x_wconf 72' lang='lat' dir='ltr'><em>virentzs</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 1489 2601 1594 2654; x_wconf 62' lang='lat' dir='ltr'><em>alhaeae</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1736 2652 1742 2660; x_wconf 78' lang='grc'><em>,,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 360 2641 1743 2722; baseline 0.022 -40"><span class='ocrx_word' id='word_1_13' title='bbox 360 2689 424 2721; x_wconf 67' lang='lat'><em>22·</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 580 2641 791 2707; x_wconf 63' lang='lat' dir='ltr'><em>Pacfferzk</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 832 2665 968 2693; x_wconf 70' lang='lat' dir='ltr'><em>rmus</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1015 2646 1119 2698; x_wconf 78' lang='lat' dir='ltr'><em>alma</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1142 2672 1255 2722; x_wconf 55' lang='lat'><em>&#39;527&#39;0</em></span> <span class='ocrx_word' id='word_1_18' title='bbox 1294 2658 1485 2708; x_wconf 70' lang='lat' dir='ltr'><em>mambus,</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1735 2663 1743 2694; x_wconf 86' lang='lat'><em>·&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

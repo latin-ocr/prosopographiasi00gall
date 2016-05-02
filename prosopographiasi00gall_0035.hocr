@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./prosopographiasi00gall_0035.png"; bbox 0 0 2414 3209; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 332 369 1779 2588">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 332 369 1779 2588">
+     <span class='ocr_line' id='line_1_1' title="bbox 332 369 1779 2588; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 332 369 1779 2588; x_wconf 95' lang='lat' dir='ltr'><em>     </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 544 2569 1340 2633">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 544 2569 1340 2633">
+     <span class='ocr_line' id='line_1_2' title="bbox 544 2569 1340 2633; baseline -0.001 -14"><span class='ocrx_word' id='word_1_2' title='bbox 544 2569 744 2621; x_wconf 47' lang='lat' dir='ltr'><em>Cziculus</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 770 2576 992 2622; x_wconf 67' lang='lat' dir='ltr'><em>:wi-ernam</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1033 2592 1108 2625; x_wconf 72' lang='lat' dir='ltr'><em>me,</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1123 2571 1340 2633; x_wconf 68' lang='lat' dir='ltr'><em>praeteriti</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 471 2571 1765 2699">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 425 2571 1765 2699">
+     <span class='ocr_line' id='line_1_3' title="bbox 497 2571 1765 2675; baseline 0.001 -38.946"><span class='ocrx_word' id='word_1_6' title='bbox 497 2625 749 2675; x_wconf 59' lang='lat' dir='ltr'><em>M</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1371 2571 1765 2637; x_wconf 55' lang='lat' dir='ltr'><em>Qflcmri</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 471 2623 1502 2699; baseline 0.006 -34"><span class='ocrx_word' id='word_1_8' title='bbox 471 2665 474 2670; x_wconf 84' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 515 2657 572 2690; x_wconf 69' lang='lat'><em>⁴:—</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 701 2623 1502 2699; x_wconf 19' lang='lat' dir='ltr'><em>chnarasnglgtfivnsffdocetfaczffl.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 403 2661 472 2715">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 403 2661 472 2715">
+     <span class='ocr_line' id='line_1_5' title="bbox 403 2661 472 2715; baseline -0.014 0"><span class='ocrx_word' id='word_1_11' title='bbox 403 2661 472 2715; x_wconf 55' lang='grc' dir='ltr'><em>Μὰ·</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
